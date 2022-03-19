@@ -67,7 +67,6 @@ class BlockChain:
     print(f"Timestamp: {block.timestamp}")
     print("\n\n===========================================================")
 
-
 # Difficulty = 4 (4 zeros)
 chain = BlockChain(4)
 
